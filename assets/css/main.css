@@ -1443,7 +1443,7 @@ input, select, textarea {
 			#header .logo {
 				width: 15rem;
 				height: 15rem;
-				line-height: 4.75rem;
+				line-height: 15rem;
 			}
 
 				#header .logo .icon:before {
